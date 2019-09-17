@@ -1,6 +1,6 @@
 # Resume
 1. Mikita,Hlushkou
-2. Phone (MTS):+375-29 286-94-36; VK:[link to vk.com](vk.com/shepardsr2);email:mikita.hlushkou@gmail.com
+2. Phone (MTS):+375-29 286-94-36; VK:[link to vk.com](https://vk.com/shepardsr2);email:mikita.hlushkou@gmail.com
 3. My personal goal at this moment is extend my knowledge of programming to get a job offer. I need this cause programming for my opinion is very interesting and always evolving so you never get bored.
 4. Knowledge at basic level of:
   * JS
