@@ -16,3 +16,21 @@ bot.on('message', (msg) => {
   if (msg.text.toString().toLowerCase().indexOf(order) === 0 && canMainMenu ) {
 
     bot.sendMessage(msg.chat.id, 'Здравствуйте '+ msg.from.first_name +' выберите интересующий вас пункт меню',  {
+ reply_markup: {
+        inline_keyboard: [
+          [
+{
+  text: 'Каталог',
+  callback_data: 'catalog'
+
+}
+]}})
+```
+6. Different small labs during study at university and telegram bot
+7. Bachelor degree of digital marketing BSUIR;compete courses of:
+  * ServiceNow
+  * CodeAcademy
+  * HtmlAcademy
+8. Read documentation about programming during courses and study at university. 
+
+
