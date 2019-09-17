@@ -6,7 +6,8 @@ VK [mikita.hlushkou@gmail.com](mailto:mikita.hlushkou@gmail.com)
 * var1
 * var2
 2. her
-3.```
+3. part of telegram bot 
+```
 code wkrwlejrletergrgh if{
 return 1
 }
