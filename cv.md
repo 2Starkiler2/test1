@@ -1,4 +1,4 @@
 # Header1 
 ## header2
 Это просто херь
-VK [link to vk](https://vk.com/shepardsr2)
+VK [mikita.hlushkou@gmail.com](mikita.hlushkou@gmail.com)
